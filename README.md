@@ -2,7 +2,7 @@
 <h3 align="left">One positive thought can change your entire life.</h3>
 
 - 👩‍💻 All of my projects are available at : https://tripduo.xyz
- ##[https://charmed-summer-94a.notion.site/20ca1bad28ea4011b5a224feb859cfc5]
+ <!--[https://charmed-summer-94a.notion.site/20ca1bad28ea4011b5a224feb859cfc5](https://charmed-summer-94a.notion.site/20ca1bad28ea4011b5a224feb859cfc5)-->
 - 📫 Email : **gk9064@naver.com**
 </p>
 
