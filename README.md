@@ -1,9 +1,10 @@
 <h1 align="left">Hi 👋, I'm Han</h1>
 <h3 align="left">One positive thought can change your entire life.</h3>
 
-- 👩‍💻 All of my projects are available at : https://tripduo.xyz
+- 👩‍💻 All of my projects are available at : https://www.notion.so/1374405bb87380af809bc5ed752f5855?pvs=4
  <!--[https://charmed-summer-94a.notion.site/20ca1bad28ea4011b5a224feb859cfc5](https://charmed-summer-94a.notion.site/20ca1bad28ea4011b5a224feb859cfc5)-->
 - 📫 Email : **gk9064@naver.com**
+- 🌱 tripduo Project : https://tripduo.xyz
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
